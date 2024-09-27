@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 ➦ No jogo, o 'caça nickel' parava as fileiras em ordem da primeira a ultima, conforme o click do mouse, e o objetivo seria conseguir clicar no mesmo item em todas as fileiras, para assim receber o item em questão.
 
-➦ Utilizando o codigo desse repositório, comcuir o desafio foi extremamnete facil, sendo necessario apenas clicar 'c' no item que fosse desejado, escolher uma cor representativa e preferencialmente unica do item, e posicionar o mouse nas fileiras do caça nickel.
+➦ Utilizando o codigo desse repositório, concluir o desafio foi extremamnete facil, sendo necessario apenas clicar 'c' no item que fosse desejado, escolher uma cor representativa e preferencialmente unica do item, e posicionar o mouse nas fileiras do caça nickel.
 
 ➦ assim os clicks eram automaticos e sempre perfeitos, selecionando o item certo e garantindo a vitoria no jogo.
 
