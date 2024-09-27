@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 ➦ Este projeto foi feito com o objetivo de automatizar o click nos objetos certos de um minigame de *caça nickel* 🎰 no jogo 'Forager'.
 
-➦ No jogo, o 'caça nickel' parava as fileiras em ordem da primeira a ultima, conforme o click do mouse, e o objetivo seria conseguir clicar no mesmo item em todas as fileiras, para assim ganhar o item em questão.
+➦ No jogo, o 'caça nickel' parava as fileiras em ordem da primeira a ultima, conforme o click do mouse, e o objetivo seria conseguir clicar no mesmo item em todas as fileiras, para assim receber o item em questão.
 
 ➦ Utilizando o codigo desse repositório, comcuir o desafio foi extremamnete facil, sendo necessario apenas clicar 'c' no item que fosse desejado, escolher uma cor representativa e preferencialmente unica do item, e posicionar o mouse nas fileiras do caça nickel.
 
