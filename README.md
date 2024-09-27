@@ -39,4 +39,6 @@ ________________________________________________________________________________
 
 ➦ assim os clicks eram automaticos e sempre perfeitos, selecionando o item certo e garantindo a vitoria no jogo.
 
+___________________________________________________________________________________________________________________________________________________________________
+
 *Vale constar que Forager é um  jogo indie single-player e que portanto nenhum outro jogador foi desfavorecido com o uso desta automação.*
