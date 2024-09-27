@@ -10,8 +10,12 @@
 
 ➥ Interface Gráfica Intuitiva: Oferece uma interface fácil de usar.
 
+________________________________________________________________________________________________________________
 
 **TECNOLOGIAS UTILIZADAS:**
 
 ➦ Python: Linguagem de programação utilizada.
 
+________________________________________________________________________________________________________________
+
+**COMO USAR:**
